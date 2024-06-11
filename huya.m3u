@@ -3,8 +3,8 @@
 #EXT-X-APTV-TYPE remote
 #EXT-X-SUB-URL https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/ya.m3u
 
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1084/b7/896bc815db9560eabbcb4a227f62ba_180_135.jpg?1416387967" group-title="英雄联盟", 卡尔
-http://live.aptvapp.com/live/huya/521000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1058/b2/e81cad4e92aecc726c023d7fc5c717_180_135.jpg?1670570541" group-title="英雄联盟", 滔博JackeyLove
+http://live.aptvapp.com/live/huya/111800
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1048/57/c520ca01e7a02975e7e5d96f432cff_180_135.jpg?1683371602" group-title="英雄联盟", Uzi
 http://live.aptvapp.com/live/huya/100
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1073/70/b0429856d8a002a2f21a0d91ff19b0_180_135.jpg?1607744697" group-title="天天吃鸡", 陈子豪
@@ -13,8 +13,8 @@ http://live.aptvapp.com/live/huya/199300
 http://live.aptvapp.com/live/huya/102411?quality=10000
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1043/16/3ffb7dfd32674a6a571067de73c8ca_180_135.jpg?1513927657" group-title="英雄联盟", 八路奶粉zzz
 http://live.aptvapp.com/live/huya/651343
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1045/70/3ba6db576629de9f18a992e52e27ce_180_135.jpg?1665172072" group-title="王者荣耀", 久爱-小予神【矛神】
-http://live.aptvapp.com/live/huya/503708
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1063/27/69fb3230202bffd72a9052f340f1a9_180_135.jpg?1504934179" group-title="王者荣耀", 孤影
+http://live.aptvapp.com/live/huya/321
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1030/41/39fb2e647f3be3e7b28e56871abca3_180_135.jpg?1653379018" group-title="星秀", 快乐老家
 http://live.aptvapp.com/live/huya/880351
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1009/e4/837d557cdf07c6adf85a62540ce53d_180_135.jpg?1578575876" group-title="英雄联盟", 小超梦ovo
